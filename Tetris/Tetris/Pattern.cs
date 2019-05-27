@@ -13,7 +13,7 @@ namespace Tetris
         public int state = 0;
         public int stateNum = 0;
         public Color color;
-        public int id=0;
+        public int id = 0;
         public class State
         {
             public int[] i = new int[4];
@@ -100,15 +100,15 @@ namespace Tetris
         }
         int Centi(int state)
         {
-            if(state == 1)
+            if (state == 1)
             {
                 return 0;
             }
-            else if(state == 2)
+            else if (state == 2)
             {
                 return -1;
             }
-            else if(state == 3)
+            else if (state == 3)
             {
                 return 0;
             }
@@ -160,13 +160,13 @@ namespace Tetris
             {
                 cubes[x] = new Cube(cubes[0].i + states[state].i[x], cubes[0].j + states[state].j[x], color);
             }
-            
+
         }
         public override void AnticlockwiseRotation()
         {
             cubes[0].i -= Centi(state);
             cubes[0].j -= Centj(state);
-            state = (state - 1 + stateNum) % stateNum;            
+            state = (state - 1 + stateNum) % stateNum;
             for (int x = 1; x < 4; x++)
             {
                 cubes[x] = new Cube(cubes[0].i + states[state].i[x], cubes[0].j + states[state].j[x], color);

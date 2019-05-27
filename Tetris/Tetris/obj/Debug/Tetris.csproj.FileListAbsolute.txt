@@ -21,3 +21,15 @@ C:\Users\Administrator\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompile
 C:\Users\Administrator\Desktop\Tetris\Tetris\obj\Debug\Tetris.exe
 C:\Users\Administrator\Desktop\Tetris\Tetris\obj\Debug\Tetris.pdb
 C:\Users\Administrator\Desktop\Tetris\Tetris\obj\Debug\Tetris.OnlineForm.resources
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\bin\Debug\Tetris.exe
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.OnlineForm.resources
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.SoloForm.resources
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.StartForm.resources
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.exe
+C:\Users\Administrator\Desktop\Tetris-2p\Tetris\obj\Debug\Tetris.pdb

@@ -39,7 +39,7 @@ namespace Tetris
             current = game.RandomPattern();
             next = game.RandomPattern();
 
-            tcpListener = new TcpListener(IPAddress.Parse("127.0.0.1"), Int32.Parse("8080"));
+            tcpListener = new TcpListener(IPAddress.Parse("127.0.0.1"), Int32.Parse("8090"));
 
             thread = new Thread(Listen);
             thread.Start();
@@ -49,12 +49,12 @@ namespace Tetris
                 
                 try
                 {
-                    tcpClient.Connect(IPAddress.Parse("127.0.0.1"), Int32.Parse("8090"));
+                    tcpClient.Connect(IPAddress.Parse("127.0.0.1"), Int32.Parse("8080"));
                     ns = tcpClient.GetStream();
                 }
                 catch
                 {
-                    
+
                 }
                 if (!tcpClient.Connected) MessageBox.Show("等待连接中");
             }
@@ -97,9 +97,9 @@ namespace Tetris
             Grid_Paint(bg);
 
             this.pictureBox1.BackgroundImage = bp;
-            
+
             pictureBox1.Refresh();
-            
+
         }
 
         private void FriendAllPaint(PaintEventArgs e)
@@ -119,11 +119,11 @@ namespace Tetris
         }
         private void FriendCurrent_Paint(Graphics g)
         {
-            if (friendCurrent!=null)
+            if (friendCurrent != null)
             {
                 friendCurrent.drawPattern(g, grid);
             }
-                
+
         }
         //绘制下一个
         private void Next_Paint()
@@ -266,9 +266,9 @@ namespace Tetris
                     string[] msgs = temp[1].Split(':');
                     if (temp[0] == "0")
                     {
-                        for(int i = 0; i < 20; i++)
+                        for (int i = 0; i < 20; i++)
                         {
-                            for(int j =0; j < 10; j++)
+                            for (int j = 0; j < 10; j++)
                             {
                                 friendCanvus[i, j] = null;
                             }
