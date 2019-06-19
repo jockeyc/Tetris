@@ -1,0 +1,89 @@
+C:\Users\admin\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\admin\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\admin\Desktop\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.SoloForm.resources
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.StartForm.resources
+C:\Users\admin\Desktop\Tetris\Tetris\obj\Debug\Tetris.SpForm.resources
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\bin\Debug\MySql.Data.dll
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\bin\Debug\Google.Protobuf.dll
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\bin\Debug\MySql.Data.xml
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.LocalDoubleForm.resources
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.SoloForm.resources
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.SpForm.resources
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.StartForm.resources
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.TheHero.resources
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\40116\Desktop\dot net应用程序开发\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\bin\Debug\Google.Protobuf.dll
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\bin\Debug\MySql.Data.xml
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.LocalDoubleForm.resources
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.SoloForm.resources
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.SpForm.resources
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.StartForm.resources
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.TheHero.resources
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\admin\Desktop\Tetris双打\Tetris2.0\Tetris\Tetris\obj\Debug\Tetris.OnlineForm.resources
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\bin\Debug\Google.Protobuf.dll
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\bin\Debug\MySql.Data.xml
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.LocalDoubleForm.resources
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.OnlineForm.resources
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.SoloForm.resources
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.SpForm.resources
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.StartForm.resources
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.TheHero.resources
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\admin\Desktop\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.InputIP.resources
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.LocalDoubleForm.resources
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.OnlineForm.resources
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.SoloForm.resources
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.SpForm.resources
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.StartForm.resources
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.TheHero.resources
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Administrator\Desktop\DOTNET\Tetris3.0最终版\Tetris\Tetris\obj\Debug\Tetris.pdb
